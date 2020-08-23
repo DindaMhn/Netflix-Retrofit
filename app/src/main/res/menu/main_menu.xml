@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/show"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_playlist_play_24"
+        android:title=""
+        />
+    <item
+        android:id="@+id/create"
+        android:icon="@drawable/ic_baseline_queue_play_next_24"
+        android:title=""
+        />
+</menu>
